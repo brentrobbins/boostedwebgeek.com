@@ -1,6 +1,6 @@
 ---
 published: true
-title: Good and Bad Design
+title: Good and Bad and other Design
 ---
 
 
