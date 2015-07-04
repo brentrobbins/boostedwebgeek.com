@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+	<h3><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h3>
+	<p>{{post.excerpt}}&hellip;</p>
+{% endfor %}
