@@ -1,4 +1,4 @@
-baseurl: http://brentrobbins.github.io/boostedwebgeek.com/
+baseurl: http://brentrobbins.github.io/boostedwebgeek.com
 title: boostedwebgeek.com
 description: All Things Visual
 permalink: /:categories/:title/
